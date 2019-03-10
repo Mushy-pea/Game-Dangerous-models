@@ -8297,3 +8297,16 @@ f 479/503/509 478/501/509 11/29/509 12/33/509
 f 472/504/510 471/502/510 4/31/510 5/2/510
 f 480/505/511 479/503/511 12/33/511 13/6/511
 f 473/506/512 472/504/512 5/2/512 6/1/512
+~
+178, 42, 16, 16, 0, cpede_destruct0.bmp, cpede_destruct1.bmp, cpede_destruct2.bmp, cpede_destruct3.bmp, cpede_destruct4.bmp, cpede_destruct5.bmp, cpede_destruct6.bmp, cpede_destruct7.bmp, cpede_destruct8.bmp, cpede_destruct9.bmp, cpede_destruct10.bmp, cpede_destruct11.bmp, cpede_destruct12.bmp, cpede_destruct13.bmp, cpede_destruct14.bmp, cpede_destruct15.bmp, cpede_destruct16.bmp, cpede_destruct17.bmp, cpede_destruct18.bmp, cpede_destruct19.bmp, cpede_destruct20.bmp, cpede_destruct21.bmp, cpede_destruct22.bmp, cpede_destruct23.bmp, cpede_destruct24.bmp, cpede_destruct25.bmp, cpede_destruct26.bmp, cpede_destruct27.bmp, cpede_destruct28.bmp, cpede_destruct29.bmp, cpede_destruct30.bmp, cpede_destruct31.bmp, cpede_destruct32.bmp, cpede_destruct33.bmp, cpede_destruct34.bmp, cpede_destruct35.bmp, cpede_destruct36.bmp, cpede_destruct37.bmp, cpede_destruct38.bmp, cpede_destruct39.bmp, cpede_destruct40.bmp, cpede_destruct41.bmp
+~
+v 0 0 -0.5
+v 0 2 -0.5
+v 2 2 0.5
+v 2 0 0.5
+vt 0 0
+vt 1 0
+vt 1 1
+vt 0 1
+vn 0 0 -1
+f 1/1/1 2/2/1 3/3/1 4/4/1
