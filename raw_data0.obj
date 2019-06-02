@@ -128,7 +128,7 @@ vt 0 1
 vn 0 0 -1
 f 1/1/1 2/2/1 3/3/1 4/4/1
 ~
-96, 15, 64, 64, 0, image6.bmp, image7.bmp, image8.bmp, torch.bmp, char77.bmp, char78.bmp, char79.bmp, char80.bmp, char81.bmp, char82.bmp, stop_sign.bmp, teleporter0.bmp, teleporter1.bmp, teleporter2.bmp, teleporter3.bmp
+96, 15, 64, 64, 0, image6.bmp, image7.bmp, image8.bmp, torch.bmp, char77.bmp, char78.bmp, char79.bmp, char80.bmp, char81.bmp, char82.bmp, stop_sign.bmp, teleporter0.bmp, cau_door0.bmp, cau_door1.bmp, cau_door2.bmp
 ~
 v 0 0 0.5
 v 0 1 0.5
@@ -167,12 +167,12 @@ vt 0.75 0
 vn 0 0 0
 f 1/1/1 2/2/1 3/3/1 4/4/1
 ~
-1017, 1, 64, 64, 0, background.bmp
+1017, 2, 640, 640, 0, background.bmp, GD logo.bmp
 ~
-v -1 0.8 0
-v 1 0.8 0
-v 1 -0.8 0
-v -1 -0.8 0
+v -1 1 0
+v 1 1 0
+v 1 -1 0
+v -1 -1 0
 vt 0 0
 vt 1 0
 vt 1 1
